@@ -9,8 +9,8 @@ You should NOT try to redefine any of the above variables.
 // Write your code below this line!
 let newID = 1000000000 + oldID
 
-let ageIsValid = Number.isInteger(currentAge)
+let ageIsValid = Number.isInteger(currentAge);
 
-let randomNumber = Math.random()
+let randomNumber = Math.random();
 
-let random
+let randomInteger = Math.floor(randomNumber);
